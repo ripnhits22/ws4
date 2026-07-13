@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "inferno_wholesale": {
+      "type": "inferno-wholesale",
+      "settings": {}
+    }
+  },
+  "order": ["inferno_wholesale"]
+}
